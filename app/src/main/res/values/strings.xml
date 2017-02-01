@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Scouting App 2017 Gearaffes</string>
+    <string name="edit_team_number">Enter team number</string>
+    <string name="button_send">Start Recording</string>
+    <string name="edit_team_name">Enter a team name</string>
+    <string name="edit_match_number">Enter a match number</string>
+    <string name="baseline">Baseline crossed</string>
+    <string name="auto_hopper">Hopper Activated</string>
+    <string name="auto_gear">Delivered Gear</string>
+    <string name="WhereDelivered">Where was gear delivered?</string>
+    <string-array name="finish_point">
+        <item>Left</item>
+        <item>Right</item>
+        <item>Center</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>Left</item>
+        <item>Right</item>
+        <item>Center</item>
+    </string-array>
+</resources>
