@@ -11,7 +11,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import static android.provider.AlarmClock.EXTRA_MESSAGE;
 
-public class DisplayMessageActivity extends AppCompatActivity {
+public class AutoEntryActivity extends AppCompatActivity {
 
     TextView teamName;
     Spinner gearEndPoint;
